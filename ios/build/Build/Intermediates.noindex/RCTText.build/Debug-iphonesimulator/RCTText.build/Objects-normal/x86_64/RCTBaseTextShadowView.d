@@ -1,0 +1,23 @@
+dependencies: \
+  /Volumes/other/satej/testingapp/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.m \
+  /Volumes/other/satej/testingapp/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/other/satej/testingapp/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/other/satej/testingapp/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Volumes/other/satej/testingapp/node_modules/react-native/Libraries/Text/RawText/RCTRawTextShadowView.h \
+  /Volumes/other/satej/testingapp/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.h

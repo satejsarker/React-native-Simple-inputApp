@@ -1,0 +1,14 @@
+// {
+//   "displayName": "testingapp",
+//   "name": "awsome",
+//   "expo": { "sdkVersion": "18.0.0" }
+// }
+{
+  "expo": {
+    "displayName": "testingapp",
+  "name": "awsome",
+    "slug": "my-app",
+    "sdkVersion": "18.0.0",
+    "privacy": "public"
+  }
+}

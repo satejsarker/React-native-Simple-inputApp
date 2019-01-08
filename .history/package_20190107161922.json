@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "expo start",
+    "eject": "expo eject",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.2.0",
+    "react": "16.5.0",
+    "react-native": "0.57.5"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true
+}

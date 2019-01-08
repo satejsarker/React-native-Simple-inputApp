@@ -1,0 +1,29 @@
+dependencies: \
+  /Volumes/other/satej/testingapp/node_modules/react-native/Libraries/Image/RCTImageLoader.m \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Volumes/other/satej/testingapp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Volumes/other/satej/testingapp/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Volumes/other/satej/testingapp/node_modules/react-native/Libraries/Image/RCTImageUtils.h

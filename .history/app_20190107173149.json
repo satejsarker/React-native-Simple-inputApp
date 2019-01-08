@@ -1,0 +1,10 @@
+
+{
+  "expo": {
+   
+  "name": "awsome",
+    "slug": "testingapp",
+    "sdkVersion": "31.0.0",
+    "privacy": "public"
+  }
+}

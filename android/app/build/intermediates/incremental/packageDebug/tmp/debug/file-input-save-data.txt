@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jan 07 15:34:09 BDT 2019
+#Mon Jan 07 17:39:13 BDT 2019
 17.baseType=DIRECTORY
 4.path=lib/armeabi/libicu_common.so
 25.base=/Volumes/other/satej/testingapp/android/app/build/intermediates/transforms/stripDebugSymbol/debug/0

@@ -1,0 +1,8 @@
+dependencies: \
+  /Volumes/other/satej/testingapp/node_modules/react-native/React/Base/RCTPlatform.m \
+  /Volumes/other/satej/testingapp/node_modules/react-native/React/Base/RCTPlatform.h \
+  /Volumes/other/satej/testingapp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Volumes/other/satej/testingapp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Volumes/other/satej/testingapp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Volumes/other/satej/testingapp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Volumes/other/satej/testingapp/node_modules/react-native/React/Base/RCTVersion.h
