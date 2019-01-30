@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>911EA63B-F9C0-43EC-AEF3-701C79C89E7E</key>
+		<key>9CEE3AED-E3AD-42BA-A094-D75B69733824</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>911EA63B-F9C0-43EC-AEF3-701C79C89E7E.xcactivitylog</string>
+			<string>9CEE3AED-E3AD-42BA-A094-D75B69733824.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>schemeIdentifier-containerName</key>
@@ -27,13 +27,42 @@
 			<key>signature</key>
 			<string>Building project awsome with scheme awsome and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>568615206.42532206</real>
+			<real>568637536.04369199</real>
 			<key>timeStoppedRecording</key>
-			<real>568615220.74534595</real>
+			<real>568637809.53950202</real>
 			<key>title</key>
 			<string>Building project awsome with scheme awsome and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>911EA63B-F9C0-43EC-AEF3-701C79C89E7E</string>
+			<string>9CEE3AED-E3AD-42BA-A094-D75B69733824</string>
+		</dict>
+		<key>F6C203C2-5832-4DC9-BB9B-B7DFE150397C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F6C203C2-5832-4DC9-BB9B-B7DFE150397C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>awsome project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>awsome</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project awsome with scheme awsome and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>568641130.20698404</real>
+			<key>timeStoppedRecording</key>
+			<real>568641141.54005694</real>
+			<key>title</key>
+			<string>Building project awsome with scheme awsome and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F6C203C2-5832-4DC9-BB9B-B7DFE150397C</string>
 		</dict>
 	</dict>
 </dict>
