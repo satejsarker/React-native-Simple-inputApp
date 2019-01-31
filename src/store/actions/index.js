@@ -1,0 +1,1 @@
+export {addplace,deletePlace,selectPlace,deseletePlace} from './Place'
