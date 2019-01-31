@@ -1,63 +1,62 @@
-import {View,StyleSheet,TextInput} from 'react-native';
-
-import React, { Component } from 'react'
+import React, { Component } from "react";
+import { View, TextInput, Button, StyleSheet } from "react-native";
 
 class PlaceInput extends Component {
+  state = {
+    placeName: ""
+  };
 
-    state={
-        placeName:"",
-        places:[]
-      }
-     placeNmaeChange=val=>{
-       this.setState({
-         placeName:val
-       })
-     }
-      placeSubmit=()=>{
-        if(this.state.placeName.trim()===""){
-          return
-        }
-        this.setState(prevState=>{
-          return {
-            places:prevState.places.concat(prevState.placeName)
-          }
-        })
-      }
+  placeNameChangedHandler = val => {
+    this.setState({
+      placeName: val
+    });
+  };
+
+  placeSubmitHandler = () => {
+    if (this.state.placeName.trim() === "") {
+      return;
+    }
+
+    this.props.onPlaceAdded(this.state.placeName);
+    this.setState({
+      placeName:""
+    })
+  };
+
   render() {
     return (
-        <View style={styles.inputContainer}>
-    <TextInput 
-    placeholder=" enter text for inoput box "
-    style={styles.placeInput}
-    value={this.state.placeName} 
-    onChangeText={this.placeNmaeChange}
-    />
-     <Button title="Add" style={styles.buttonInput} onPress={this.placeSubmit}
-    color="green"
-    />
-    </View>
-    )
+      <View style={styles.inputContainer}>
+        <TextInput
+          placeholder="Enter Name"
+          value={this.state.placeName}
+          onChangeText={this.placeNameChangedHandler}
+          style={styles.placeInput}
+        />
+        <Button
+          title="Add"
+          // color="#daa520"
+          style={styles.placeButton}
+          onPress={this.placeSubmitHandler}
+        />
+      </View>
+    );
   }
 }
 
-
-
 const styles = StyleSheet.create({
-    inputContainer:{
-        // flex:1,
-        width:"100%",
-        flexDirection: 'row',
-        justifyContent:"space-between",
-        alignItems:"center"
-    
-      },
-      placeInput:{
-        width:"70%"
-      },
-      buttonInput:{
-        width:"30%"
-      },
+  inputContainer: {
+    // flex: 1,
+    width: "100%",
+    flexDirection: "row",
+    justifyContent: "space-between",
+    alignItems: "center"
+  },
+  placeInput: {
+    width: "70%"
+  },
+  placeButton: {
+    width: "30%",
+  }
 });
-
 
 export default PlaceInput;

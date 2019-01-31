@@ -1,17 +1,23 @@
 import React from 'react';
-import {ScrollView,StyleSheet} from 'react-native';
+import {StyleSheet,FlatList} from 'react-native';
 import ListItem from '../ListItem/ListItem';
 
 
 const PlaceList=(props)=> {
 
-    const placesOut= props.places.reverse().map((place,i)=>(
-        <ListItem key={i} placeName={place}  onItemPressed={()=>props.onItDeleted(i)} />
-       ));
+  
   return (
-    <ScrollView style={styles.listContainer}>
-    {placesOut}
-     </ScrollView> 
+    <FlatList style={styles.listContainer} 
+    data={props.places}
+    renderItem={(info)=>(
+        <ListItem  placeName={info.item.name} 
+        Image={info.item.image}
+        onItemPressed={()=>props.onItemSelected(info.item.key)} />
+    )
+
+    }
+    
+    />
   )
 
 
@@ -22,8 +28,12 @@ const styles = StyleSheet.create({
     listContainer:{
         width:"100%",
         padding:10,
-        marginBottom:5
-      }
+        marginBottom:5,
+      
+      },
+     
+       
+      
 });
 
 export default PlaceList;
